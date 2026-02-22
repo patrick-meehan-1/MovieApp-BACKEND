@@ -1,5 +1,25 @@
 [
   {
+    "ContainingType": "CineSwipe.Controllers.MoviesController",
+    "Method": "GetMovies",
+    "RelativePath": "api/Movies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineSwipe.Controllers.WatchlistController",
+    "Method": "GetWatchlist",
+    "RelativePath": "api/Watchlist",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CineSwipe.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
