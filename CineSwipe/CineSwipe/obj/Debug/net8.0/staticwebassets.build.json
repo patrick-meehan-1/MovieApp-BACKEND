@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "EAcpBVPRKENe6IHnp6Qwjk0YGJZwpKX78113rbL0YiA=",
-  "Source": "CineSwipe",
-  "BasePath": "_content/CineSwipe",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"K+EWLQJDoyZuQrqbqK2/ZlFbqnDPeu5TtArEkklajzo=","Source":"CineSwipe","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

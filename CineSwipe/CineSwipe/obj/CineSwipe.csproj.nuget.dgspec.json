@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\CineSwipe.csproj": {}
+    "C:\\Users\\Pjmee\\source\\repos\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\CineSwipe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\CineSwipe.csproj": {
+    "C:\\Users\\Pjmee\\source\\repos\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\CineSwipe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\CineSwipe.csproj",
+        "projectUniqueName": "C:\\Users\\Pjmee\\source\\repos\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\CineSwipe.csproj",
         "projectName": "CineSwipe",
-        "projectPath": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\CineSwipe.csproj",
-        "packagesPath": "C:\\Users\\Ross E\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\obj\\",
+        "projectPath": "C:\\Users\\Pjmee\\source\\repos\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\CineSwipe.csproj",
+        "packagesPath": "C:\\Users\\Pjmee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pjmee\\source\\repos\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ross E\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pjmee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -53,6 +58,10 @@
               "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[8.0.0, )"
             },
@@ -86,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
