@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\ross e\\desktop\\movieapp-backend\\cineswipe\\cineswipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|solutionrelative:cineswipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\ross e\\desktop\\movieapp-backend\\cineswipe\\cineswipe\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|solutionrelative:cineswipe\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\ross e\\desktop\\movieapp-backend\\cineswipe\\cineswipe\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|solutionrelative:cineswipe\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\ross e\\desktop\\movieapp-backend\\cineswipe\\cineswipe\\models\\watchlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +23,24 @@
       "RelativeMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|solutionrelative:cineswipe\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\ross e\\desktop\\movieapp-backend\\cineswipe\\cineswipe\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|solutionrelative:cineswipe\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\ross e\\desktop\\movieapp-backend\\cineswipe\\cineswipe\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|solutionrelative:cineswipe\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\ross e\\desktop\\movieapp-backend\\cineswipe\\cineswipe\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|solutionrelative:cineswipe\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\ross e\\desktop\\movieapp-backend\\cineswipe\\cineswipe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|solutionrelative:cineswipe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\ross e\\desktop\\movieapp-backend\\cineswipe\\cineswipe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|solutionrelative:cineswipe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\ross e\\desktop\\movieapp-backend\\cineswipe\\cineswipe\\migrations\\20260223200709_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|solutionrelative:cineswipe\\migrations\\20260223200709_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\ross e\\desktop\\movieapp-backend\\cineswipe\\cineswipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|solutionrelative:cineswipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\ross e\\desktop\\movieapp-backend\\cineswipe\\cineswipe\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|solutionrelative:cineswipe\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\ross e\\desktop\\movieapp-backend\\cineswipe\\cineswipe\\cineswipe.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -50,102 +58,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WatchlistController.cs",
-              "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Controllers\\WatchlistController.cs",
-              "RelativeDocumentMoniker": "CineSwipe\\Controllers\\WatchlistController.cs",
-              "ToolTip": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Controllers\\WatchlistController.cs",
-              "RelativeToolTip": "CineSwipe\\Controllers\\WatchlistController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T22:02:01.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "CineSwipe\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "CineSwipe\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T21:50:58.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WatchlistItem.cs",
-              "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Models\\WatchlistItem.cs",
-              "RelativeDocumentMoniker": "CineSwipe\\Models\\WatchlistItem.cs",
-              "ToolTip": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Models\\WatchlistItem.cs",
-              "RelativeToolTip": "CineSwipe\\Models\\WatchlistItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T21:49:16.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "CineSwipe\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Models\\Movie.cs",
-              "RelativeToolTip": "CineSwipe\\Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T21:47:57.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "CineSwipe\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "CineSwipe\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T21:44:14.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Program.cs",
-              "RelativeDocumentMoniker": "CineSwipe\\Program.cs",
-              "ToolTip": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Program.cs",
-              "RelativeToolTip": "CineSwipe\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T21:51:16.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "CineSwipe\\Controllers\\MoviesController.cs",
               "ToolTip": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "CineSwipe\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-22T22:01:34.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "WatchlistController.cs",
+              "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Controllers\\WatchlistController.cs",
+              "RelativeDocumentMoniker": "CineSwipe\\Controllers\\WatchlistController.cs",
+              "ToolTip": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Controllers\\WatchlistController.cs",
+              "RelativeToolTip": "CineSwipe\\Controllers\\WatchlistController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T22:02:01.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\appsettings.json",
               "RelativeDocumentMoniker": "CineSwipe\\appsettings.json",
@@ -158,20 +101,109 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CineSwipe\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CineSwipe\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T21:50:58.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "CineSwipe\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Models\\Movie.cs",
+              "RelativeToolTip": "CineSwipe\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T21:47:57.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WatchlistItem.cs",
+              "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Models\\WatchlistItem.cs",
+              "RelativeDocumentMoniker": "CineSwipe\\Models\\WatchlistItem.cs",
+              "ToolTip": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Models\\WatchlistItem.cs",
+              "RelativeToolTip": "CineSwipe\\Models\\WatchlistItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T21:49:16.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260223200709_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Migrations\\20260223200709_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CineSwipe\\Migrations\\20260223200709_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Migrations\\20260223200709_InitialCreate.cs",
+              "RelativeToolTip": "CineSwipe\\Migrations\\20260223200709_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:22:05.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CineSwipe\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CineSwipe\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-24T20:25:24.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CineSwipe",
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CineSwipe\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CineSwipe\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T21:44:14.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Program.cs",
+              "RelativeDocumentMoniker": "CineSwipe\\Program.cs",
+              "ToolTip": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Program.cs",
+              "RelativeToolTip": "CineSwipe\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T21:51:16.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CineSwipe.csproj",
               "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\CineSwipe.csproj",
               "RelativeDocumentMoniker": "CineSwipe\\CineSwipe.csproj",
               "ToolTip": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\CineSwipe.csproj",
               "RelativeToolTip": "CineSwipe\\CineSwipe.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-22T21:44:39.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-22T21:44:39.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CineSwipe.http",
               "DocumentMoniker": "C:\\Users\\Ross E\\Desktop\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\CineSwipe.http",
               "RelativeDocumentMoniker": "CineSwipe\\CineSwipe.http",
@@ -179,8 +211,7 @@
               "RelativeToolTip": "CineSwipe\\CineSwipe.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-02-22T21:41:49.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-22T21:41:49.892Z"
             }
           ]
         }
