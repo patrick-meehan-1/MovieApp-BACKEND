@@ -62,4 +62,24 @@ public class MoviesController : ControllerBase
         await _context.SaveChangesAsync();
         return NoContent();
     }
+
+    //We use this for Display random movie on UI Tinder style
+    // GET: api/movies/random
+    [HttpGet("random")]
+    public async Task<IActionResult> GetRandomMovie()
+    {
+        var count = await _context.Movies.CountAsync();
+        if (count == 0)
+            return NotFound("No movies available.");
+
+        var random = new Random();
+        var skip = random.Next(0, count);
+
+        var movie = await _context.Movies
+            .Skip(skip)
+            .FirstOrDefaultAsync();
+
+        return Ok(movie);
+    }
+
 }
