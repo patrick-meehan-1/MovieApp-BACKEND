@@ -19,13 +19,17 @@ jobs:
           dotnet-version: '8.0.x'
 
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore CineSwipe.sln
+        working-directory: CineSwipe
 
       - name: Build
-        run: dotnet build --no-restore --configuration Release
+        run: dotnet build CineSwipe.sln --no-restore --configuration Release
+        working-directory: CineSwipe
 
       - name: Run tests
-        run: dotnet test --no-build --configuration Release
+        run: dotnet test CineSwipe.sln --no-build --configuration Release
+        working-directory: CineSwipe
 
       - name: Check code formatting
-        run: dotnet format --verify-no-changes --no-restore
+        run: dotnet format CineSwipe.sln --verify-no-changes --no-restore
+        working-directory: CineSwipe
