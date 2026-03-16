@@ -70,8 +70,7 @@
               "RelativeToolTip": "CineSwipe\\Controllers\\WatchlistController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T19:22:05.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T19:22:05.928Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "CineSwipe\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAACvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T19:22:05.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T19:22:05.952Z"
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "CineSwipe\\Models\\WatchlistItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T19:22:05.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T19:22:05.954Z"
             },
             {
               "$type": "Document",
@@ -109,8 +106,7 @@
               "RelativeToolTip": "CineSwipe\\Models\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T19:22:05.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T19:22:05.955Z"
             },
             {
               "$type": "Document",
@@ -122,8 +118,7 @@
               "RelativeToolTip": "CineSwipe\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T19:22:05.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T19:22:05.956Z"
             },
             {
               "$type": "Document",
@@ -135,8 +130,7 @@
               "RelativeToolTip": "CineSwipe\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T19:22:05.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T19:22:05.957Z"
             },
             {
               "$type": "Document",
@@ -146,7 +140,7 @@
               "RelativeDocumentMoniker": "CineSwipe\\Controllers\\MoviesController.cs",
               "ToolTip": "C:\\Users\\Pjmee\\source\\repos\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "CineSwipe\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T19:22:05.964Z",
               "EditorCaption": ""
@@ -161,8 +155,7 @@
               "RelativeToolTip": "CineSwipe\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-23T19:22:05.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T19:22:05.966Z"
             },
             {
               "$type": "Document",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "CineSwipe\\CineSwipe.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-23T19:22:05.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T19:22:05.969Z"
             },
             {
               "$type": "Document",
@@ -187,8 +179,7 @@
               "RelativeToolTip": "CineSwipe\\CineSwipe.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-02-23T19:22:06.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T19:22:06.008Z"
             }
           ]
         }
