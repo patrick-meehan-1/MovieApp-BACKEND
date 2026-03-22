@@ -31,12 +31,12 @@ public class WatchlistController : ControllerBase
     [HttpPost]
     public async Task<IActionResult> AddToWatchlist(WatchlistItem item)
     {
-        // Validate movie exists
+        // for Validating movie exists
         var movieExists = await _context.Movies.AnyAsync(m => m.Id == item.MovieId);
         if (!movieExists)
             return NotFound($"Movie with ID {item.MovieId} does not exist.");
 
-        // Prevent duplicates
+        // this will prevent duplicates
         var alreadyExists = await _context.WatchlistItems
             .AnyAsync(w => w.MovieId == item.MovieId && w.UserId == item.UserId);
 
