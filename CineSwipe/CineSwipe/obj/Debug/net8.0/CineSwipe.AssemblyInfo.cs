@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CineSwipe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b44d528a343b0f8187acfb6f34d07842b80727fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2328ecb5fd26445f1c5a44f7e8fefc9d8faede5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CineSwipe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CineSwipe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
