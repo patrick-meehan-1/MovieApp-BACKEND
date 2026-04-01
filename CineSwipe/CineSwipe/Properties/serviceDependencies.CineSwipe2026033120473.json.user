@@ -1,20 +1,4 @@
 {
-  "dependencies": {
-    "apis1": {
-      "restored": true,
-      "restoreTime": "2026-03-31T19:49:38.2833942Z"
-    }
-  },
-  "parameters": {
-    "apis1.resourceGroupName": {
-      "Name": "apis1.resourceGroupName",
-      "Type": "resourceGroup",
-      "Value": "CineSwipe"
-    },
-    "apis1.subscriptionId": {
-      "Name": "apis1.subscriptionId",
-      "Type": "subscription",
-      "Value": "de1ebf46-5e24-4a04-b31b-d1800d3316c5"
-    }
-  }
+  "dependencies": {},
+  "parameters": {}
 }

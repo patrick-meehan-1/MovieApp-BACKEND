@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Pjmee\\Documents\\TUD-Learning\\MovieApp-BACKEND\\CineSwipe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\pjmee\\documents\\tud-learning\\movieapp-backend\\cineswipe\\cineswipe\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|solutionrelative:cineswipe\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\pjmee\\documents\\tud-learning\\movieapp-backend\\cineswipe\\cineswipe\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|solutionrelative:cineswipe\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\pjmee\\documents\\tud-learning\\movieapp-backend\\cineswipe\\cineswipe\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|solutionrelative:cineswipe\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11B57FF2-DC38-46C7-92A0-547906E17368}|CineSwipe\\CineSwipe.csproj|c:\\users\\pjmee\\documents\\tud-learning\\movieapp-backend\\cineswipe\\cineswipe\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +58,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:681529699:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": ".dockerignore",
               "DocumentMoniker": "C:\\Users\\Pjmee\\Documents\\TUD-Learning\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\.dockerignore",
               "RelativeDocumentMoniker": "CineSwipe\\.dockerignore",
@@ -75,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\Pjmee\\Documents\\TUD-Learning\\MovieApp-BACKEND\\CineSwipe\\CineSwipe\\Dockerfile",
               "RelativeDocumentMoniker": "CineSwipe\\Dockerfile",
@@ -168,8 +176,7 @@
               "RelativeToolTip": "CineSwipe\\Controllers\\MoviesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T19:22:05.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T19:22:05.964Z"
             },
             {
               "$type": "Document",
@@ -206,18 +213,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2026-02-23T19:22:06.008Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:681529699:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             }
           ]
         }
